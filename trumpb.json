@@ -1,5 +1,5 @@
 {
-	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swampe##swampe##swampe# #HT# " , "#hatred#"]
+	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swamp# #HT# " , "#hatred#", "#contact# #politician# #fedup# #tostop# our #bfill# #issue# #HT#"]
 	
 	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeelsB#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #trumpfeelsG# #HT#"]
 
@@ -62,6 +62,8 @@
 
  	,"swampe" :["🐸", "🐙", "🐛", "🐌", "🦂", "🦀", "🐍", "🐢", "🐠", "🐟", "🐡", "🐬", "🐳", "🐋", "🐚", "🌊"]
 
+ 	,"swamp" :["#swampe#","#swampe# #swampe#", "#swampe# #swampe# #swampe#"]
+
  	,"positivemessage":["#time# #dogood# #alluneed# #HTG#", "#dogood# #alluneed# #HTG#"]
 
 	,"time":["sometimes" , "every once in a while" , "often enough", "its never to late, "]
@@ -76,7 +78,17 @@
 
 	,"hatred":["#mex# #HTH#", "#blm# #insult#","#blm# #insult#"]
 
-	,"insult":["is a #freakin# joke","nothing but #deplorable.s# and #deplorable.s# how sad #dots# #trumpfeelsB#" , "has no respect for our #support# #dots# #trumpfeelsB#" ,"maybe our boys and blue deserve more respect first"]
+	,"contact": ["yell at", "write to","write an email to","make a call to","call up","call"]
+
+	,"politician": ["your local community leader", "your municipal government","your state rep or senator","your Senator", "your Representative", "your governor"]
+
+	,"fedup":["and urge them", "and plead for them", "and demand for them" , "and convince them", "and ask them", "and beg them"]
+
+	,"tostop":["to abolish" , "to end", "to stop"]
+
+	,"issue":["illegal immigration problem", "tax hikes" , "war on the middle class", "health care system"]
+
+	,"insult":["is a joke","nothing but #deplorable.s# and #deplorable.s# how sad #dots# #trumpfeelsB#" , "has no respect for our #support# #dots# #trumpfeelsB#" ,"maybe our boys and blue deserve more respect first"]
 
 	,"mex":["List is getting way too long on illegal immigrants raping our children","like Roaches...shine the light & they're back again; good job, Border Patrol!🇺🇸","I wonder how the deradicalization is working out? Mayb they should just send em back","All these killers!! Will NOBODY stand up to make us safe from these murderers","Mexico doesn't send assistance to America, they send illegals to send back money.","No thanks mexico! keep your drugs losers!"]
 
