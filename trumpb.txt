@@ -1,0 +1,68 @@
+--------
+|Update|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.0.1	- added Trump dots. Cleaned up prayer section. expanded core dictionary to work with niche topics/needs clean up. Started to sort out niche topics in tags. 
+			removed thumbs up/bench svc. was a leech, can do better.
+1.0		- start
+-----------
+|IMPORTANT|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+B/Gfill- 				|+/- filler words. pref. adj.
+
+good/bad guys - target 	| targ = big tickets. good/bad where to put the common folks. IE (Mccain/gg hillary/bg colbert/bg The obamas/t SJW/t) 
+
+support                 | home grown, constituants. 
+
+fearstate				| fear mongering on a world level *don't target groups*
+
+trumpfeels				| trump idioms... sad.... horrible.... losers.. 
+
+feel-					| broad feelings (#feelhappy# about poop\ estatic about poop. great about poop. awesome about poop.)
+
+prayer                  | general support prayers. will get more spicific in args later.
+
+HT/HTP/HT*				| HASHTAGS MUST HAVE THIS FORMAT. ("\\#maga") with out it wont work. core hashtags + niche (ht+p) (htp)
+
+dots					| adds the trump dots for extra trump effect. use with #trumpfeels#
+
+----------------
+|may need later|
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+#$#$#$#$#$ quick add some shit. 
+
+ex.
+,"STORY":[THE #ANIMAL# IS #COLOR#]
+,"COLOR":["BLUE","RED","BLACK","GREEN"]
+,"ANIMAL":["DOG", "MONKEY", "CAT"]
+
+Basic
+
+,"":["", "", "", ""]
+
+Hashtags
+
+,"":["\\#", "\\#", "\\#", "\\#", "\\#", "\\#"]
+
+
+#$#$#$#$#$ Takes a picture of trump giving thumbs up and puts it over spec pic. 
+
+-trump 			| tag is the pic from drop box. defined in href
+-trump-l-t-w	| orientation and semi randomize of where the trump is on the pic
+-bench			| calls the whole thing 
+-unsplash image	| really just calls for it in -bench. then goes to hosting site where we difine it to take a random post
+-unsplash quary | adds search terms to the above ***not as cool as it can be*****
+-rotate 			| follow the code but adds more random actions 
+
+,"bench" : "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"1024\" height=\"512\" style=\"position: relative;\"><image x=\"0\" y=\"0\" width=\"1024\" height=\"512\" xlink:href=\"#unsplash_image#\" />#trump#</svg>}"
+,"OLD_unsplash_image" : "https://source.unsplash.com/random/1024x512?#unsplash_query#"
+,"unsplash_image" : "https://unsplash-proxy.glitch.me/random/1024x512?query=#unsplash_query#"
+,"unsplash_query" : ["protest", "trump"]
+,"trump" : "<image x=\"#trump_left#\" y=\"#trump_top#\" width=\"#trump_width#\" height=\"425\" xlink:href=\"https://www.dropbox.com/s/bvmlelos3s4d6d9/thumbsup.png?raw=1\" transform=\"rotate(#rotate_sign##rotate_degrees#)\" style=\"width:#width#;\" />"
+,"trump_left" : ["0", "50", "100", "150", "200", "250", "300", "350", "400", "450", "500", "550", "600", "650", "700", "750"]
+,"trump_top" : ["200", "100"]
+,"trump_width" : [ "200", "200", "200", "240", "240", "240", "240"]
+,"rotate_sign" : ["", "-"]
+,"rotate_degrees" : ["0", "5", "10"]
+

@@ -1,0 +1,57 @@
+{
+	"origin" : ["#prayers# #HTP#" ,  "#talkshitA# #HT#"]
+	
+	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeels#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #HT#"]
+
+	,"goodthing":["working hard to pass a #gfill# tax plan! #HT#"]
+
+	,"badthing":["hellbent against our #support#", "poisoning our children", "corrupting our youth", "spitting on our flag" , "selling your rights to #fearstate#"]
+
+	,"gfill":["great", "responsible" , "comprehensive" , "bilateral"]
+
+	,"bfill":["horrible", "embarrising", "laughable", "complete shit"]
+
+	,"goodguy":["Senate Republicans" , " House Republicans" , " John Mccain" , " Connor McGregor"]
+
+	,"target":["the Obamas", "the Clintons"]
+
+	,"support":["Troops" , "LEO"  , "Marines" , "Military"]
+
+	,"dots":["...", "..", "...."]
+
+	,"newsout":["CNN" , "MSNBC"  , "Good Morning America" , "The Daily Show" , " Meet the Press" , "Face the Nation" , "Twitter"]
+
+	,"Europe":["Albania" , "Andorra"  , "Armenia" , "Austria", "Germany" , "Belarus" , "Croatia" , "Hungary" , "Czech", "Poland" , "Italy" , "France" , "Greece"]
+
+	,"fearstate":["North Korea", "China!", "Beijing" , "ISIS"]
+
+	,"prayers" :["Pray 4 our #support#, #god# #pray#", "protect our #support#, #god# #pray#", "Jesus save our #support#, #god# #pray#", "RT or you hate our #support#, #god# #pray#"]
+
+	,"support":["Troops" , "LEO"  , "Marines" , "Military"]
+
+	,"god":["Father" , "Lord" , "God" , "Jesus"]
+
+	,"trumpfeels": ["sad", "SAD", "losers" , "Losers", "Very sad!", "Losers!" , "Haters", "HATERS", "Haters!" , "nice /s", "NICE!" , "way to go"] 
+
+	,"feelhappy":["great","gay","joyous","lucky","fortunate","delighted","overjoyed","gleeful","thankful","important","festive","ecstatic","satisfied","glad","cheerful","sunny","merry","elated","jubilant"]
+
+	,"feelopen":["understanding","confident","reliable","easy","amazed","free","sympathetic","interested","satisfied","receptive","accepting","kind"]
+
+	,"feelcur":["concerned","affected","fascinated","intrigued","absorbed","inquisitive","nosy","snoopy","engrossed","curious"]
+
+	,"feelstrong":["impulsive","free","sure","certain","rebellious","unique","dynamic","tenacious","hardy","secure"]
+
+	,"feelmad":["irritated","enraged","hostile","insulting","sore","annoyed","upset","hateful","unpleasant","offensive","bitter","aggressive","resentful","inflamed","provoked","incensed","infuriated","cross","worked up","boiling","fuming","indignant"]
+
+	,"feelconfus":["upset","doubtful","uncertain","indecisive","perplexed","embarrassed","hesitant","shy","stupefied","disillusioned","unbelieving","skeptical","distrustful","misgiving","lost","unsure","uneasy","pessimistic","tense"]
+
+	,"feelscared":["fearful","terrified","suspicious","anxious","alarmed","panic","nervous","scared","worried","frightened","timid","shaky","restless","doubtful","threatened","cowardly","quaking","menaced","wary"]
+
+	,"HT" :[ "\\#trump", "\\#maga", "\\#usa", "\\#Trump2016", "\\#TrumpTrain", "\\#Hillary", "\\#tcot", "\\#GOP", "\\#USA", "\\#Clinton", "\\#Obama", "\\#MakeAmericaGreatAgain", "\\#VoteTrump", "\\#AlwaysTrump"]
+
+	,"HTP" :[ "\\#faith", "\\#Lord", "\\#God", "\\#Father", "\\#Prayer", "\\#Jesus"]
+
+	,"pray":["Thank You for the men and women that protect this nation! as they protect us, protect them as well! " , "I pray that You will be there with them to guide them through whatever challenges and trials they face this day." , "Thank You for the men and women who are on our soil defending us from nuclear threats and attacks." , "I pray that you will disarm and fail every attempt the enemy has at causing destruction to our nation." , "be with our brave men and women here!  I thank You for them all!  I love You!" , "I pray that You would provide men and women of faith to share the Good" , "Heal the wounds that our brave men and women have encountered while protecting us.  Lord," , "I just want to thank You for the brave men and women who put their lives on the line daily for our nation!" , "Give them the power to overcome the enemy and remain safe.  Lord, fight alongside our troops."]
+
+
+}
