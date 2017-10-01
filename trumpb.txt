@@ -1,7 +1,7 @@
 --------
 |Update|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-1.0.1   - Added more phrases with some emojis as well as started the positivity section for replies. 
+1.0.1   - Added more phrases with some emojis as well as started the positivity section for replies. Added Hate section. 
 1.0.1	- added Trump dots. Cleaned up prayer section. expanded core dictionary to work with niche topics/needs clean up. Started to sort out niche topics in tags. 
 			removed thumbs up/bench svc. was a leech, can do better.
 1.0		- start
@@ -36,6 +36,8 @@ uneed2					| not currently called due to weird phrasing in dogood. needs better 
 
 HT						| hashtags for different things, 
 
+******Hatred					|	Spews hate racist af. 
+	Idea is to set it up as target group + insult as bait over many groups and hash tags, becareful not to go 2 far, maybe disable from origin some days. 
 ----------------
 |may need later|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------

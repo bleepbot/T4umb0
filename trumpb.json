@@ -1,5 +1,5 @@
 {
-	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swampe##swampe##swampe# #HT# #HT# #HT# "]
+	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swampe##swampe##swampe# #HT# " , "#hatred#"]
 	
 	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeelsB#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #trumpfeelsG# #HT#"]
 
@@ -73,6 +73,20 @@
 	,"HTG":["\\#positive", "\\#positivity", "\\#goodthings", "\\#goodpeople", "\\#selfhelp"]
 
 	,"alluneed":["is all you need", "can make a huge difference", "changes everything", "is all it takes", "is the extra mile"]
+
+	,"hatred":["#mex# #HTH#", "#blm# #insult#","#blm# #insult#"]
+
+	,"insult":["is a #freakin# joke","nothing but #deplorable.s# and #deplorable.s# how sad #dots# #trumpfeelsB#" , "has no respect for our #support# #dots# #trumpfeelsB#" ,"maybe our boys and blue deserve more respect first"]
+
+	,"mex":["List is getting way too long on illegal immigrants raping our children","like Roaches...shine the light & they're back again; good job, Border Patrol!🇺🇸","I wonder how the deradicalization is working out? Mayb they should just send em back","All these killers!! Will NOBODY stand up to make us safe from these murderers","Mexico doesn't send assistance to America, they send illegals to send back money.","No thanks mexico! keep your drugs losers!"]
+
+	,"blm":["\\#takeaknee","\\#unity","\\ #blacklivesmatter","\\ #alllivesmatter","\\#amberroseslutwalk","\\#equality","\\#nomorevictimblaming","\\#kaepernick","\\#rightsideofhistory","\\#stopkillingblackpeople","\\#icantbreathe","\\#black \\#lives \\#matter","\\#tamirrice","\\#handsupdontshoot","\\#sandrabland","\\#freddiegray","\\#ericgarner","\\#saytheirnames","\\#allthenames","\\#toomanynames","\\#takeastand","\\#raiseyourvoice"]
+
+	,"deplorable":["thug" , "felon", "gangster" , "criminal" , "N-" , "loser" , "fiend" , "addict", "sons of bitch", "dealers" , "slimeball"]
+
+	,"HTH":["\\#buildawall"]
+
+
 
 
 }
