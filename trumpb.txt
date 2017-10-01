@@ -1,6 +1,7 @@
 --------
 |Update|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1.0.1   - Added more phrases with some emojis as well as started the positivity section for replies. 
 1.0.1	- added Trump dots. Cleaned up prayer section. expanded core dictionary to work with niche topics/needs clean up. Started to sort out niche topics in tags. 
 			removed thumbs up/bench svc. was a leech, can do better.
 1.0		- start
@@ -25,10 +26,21 @@ HT/HTP/HT*				| HASHTAGS MUST HAVE THIS FORMAT. ("\\#maga") with out it wont wor
 
 dots					| adds the trump dots for extra trump effect. use with #trumpfeels#
 
+swampe					| random fish emojis
+
+time					| will be renamed prob, currently to alure to something, if that makes sense. 
+
+dogood					| good actions {future plan to use this as a main source for replies.}
+
+uneed2					| not currently called due to weird phrasing in dogood. needs better grammer. 
+
+HT						| hashtags for different things, 
+
 ----------------
 |may need later|
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+http://delim.co/ for list cleaning
 
 #$#$#$#$#$ quick add some shit. 
 
@@ -53,7 +65,7 @@ Hashtags
 -bench			| calls the whole thing 
 -unsplash image	| really just calls for it in -bench. then goes to hosting site where we difine it to take a random post
 -unsplash quary | adds search terms to the above ***not as cool as it can be*****
--rotate 			| follow the code but adds more random actions 
+-rotate 		| follow the code but adds more random actions 
 
 ,"bench" : "{svg <svg xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" version=\"1.1\" width=\"1024\" height=\"512\" style=\"position: relative;\"><image x=\"0\" y=\"0\" width=\"1024\" height=\"512\" xlink:href=\"#unsplash_image#\" />#trump#</svg>}"
 ,"OLD_unsplash_image" : "https://source.unsplash.com/random/1024x512?#unsplash_query#"

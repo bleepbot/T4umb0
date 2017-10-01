@@ -1,5 +1,5 @@
 {
-	"origin" : ["#prayers# #HTP#" ,  "#talkshitA# #HT#"]
+	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swampe##swampe##swampe# #HT# #HT# #HT# "]
 	
 	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeels#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #HT#"]
 
@@ -52,6 +52,21 @@
 	,"HTP" :[ "\\#faith", "\\#Lord", "\\#God", "\\#Father", "\\#Prayer", "\\#Jesus"]
 
 	,"pray":["Thank You for the men and women that protect this nation! as they protect us, protect them as well! " , "I pray that You will be there with them to guide them through whatever challenges and trials they face this day." , "Thank You for the men and women who are on our soil defending us from nuclear threats and attacks." , "I pray that you will disarm and fail every attempt the enemy has at causing destruction to our nation." , "be with our brave men and women here!  I thank You for them all!  I love You!" , "I pray that You would provide men and women of faith to share the Good" , "Heal the wounds that our brave men and women have encountered while protecting us.  Lord," , "I just want to thank You for the brave men and women who put their lives on the line daily for our nation!" , "Give them the power to overcome the enemy and remain safe.  Lord, fight alongside our troops."]
+
+
+ 	,"swampe" :["🐸", "🐙", "🐛", "🐌", "🦂", "🦀", "🐍", "🐢", "🐠", "🐟", "🐡", "🐬", "🐳", "🐋", "🐚", "🌊"]
+
+ 	,"positivemessage":["#time# #dogood# #alluneed# #HT3#", "#dogood# #alluneed# #HT3#"]
+
+	,"time":["sometimes" , "every once in a while" , "often enough", "its never to late, "]
+
+	,"uneed2":["you need to", "you gotta"]
+
+	,"dogood":["being open-minded", "taking a leap of faith", "becoming a channel of divine will", "expressing masculine energy in appropriate and constructive ways"]
+
+	,"HT3":["\\#positive", "\\#positivity", "\\#goodthings", "\\#goodpeople", "\\#selfhelp"]
+
+	,"alluneed":["is all you need", "can make a huge difference", "changes everything", "is all it takes", "is the extra mile"]
 
 
 }
