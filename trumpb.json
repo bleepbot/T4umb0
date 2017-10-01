@@ -1,21 +1,25 @@
 {
 	"origin" : ["#prayers# #HTP#", "#talkshitA# #HT#", "#positivemessage#", "DRAIN THE SWAMP! #swampe##swampe##swampe# #HT# #HT# #HT# "]
 	
-	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeels#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #HT#"]
+	,"talkshitA":[ " #newsout# and #target# are #badthing# #dots# #trumpfeelsB#", "#feelhappy# to hear #goodguy# #goodthing# #dots# #trumpfeelsG# #HT#"]
 
-	,"goodthing":["working hard to pass a #gfill# tax plan! #HT#"]
+	,"goodthing":["working hard to pass a #gfill# tax plan!" , "will have to bring solutions to our #bfill# #coreissue# problem to #leader#"]
 
 	,"badthing":["hellbent against our #support#", "poisoning our children", "corrupting our youth", "spitting on our flag" , "selling your rights to #fearstate#"]
 
+	,"coreissue":["healthcare", "huge debt", "immigration", "drugs", "thug"]
+
 	,"gfill":["great", "responsible" , "comprehensive" , "bilateral"]
 
-	,"bfill":["horrible", "embarrising", "laughable", "complete shit"]
+	,"bfill":["horrible", "embarrassing", "laughable"]
 
 	,"goodguy":["Senate Republicans" , " House Republicans" , " John Mccain" , " Connor McGregor"]
 
 	,"target":["the Obamas", "the Clintons"]
 
 	,"support":["Troops" , "LEO"  , "Marines" , "Military"]
+
+	,"leader":["DJT", "POTUS", "The Don", "Trump"]
 
 	,"dots":["...", "..", "...."]
 
@@ -31,9 +35,11 @@
 
 	,"god":["Father" , "Lord" , "God" , "Jesus"]
 
-	,"trumpfeels": ["sad", "SAD", "losers" , "Losers", "Very sad!", "Losers!" , "Haters", "HATERS", "Haters!" , "nice /s", "NICE!" , "way to go"] 
+	,"trumpfeelsG": ["nice", "NICE!" , "way to go" , "awesome", "this is HUGE!"]
 
-	,"feelhappy":["great","gay","joyous","lucky","fortunate","delighted","overjoyed","gleeful","thankful","important","festive","ecstatic","satisfied","glad","cheerful","sunny","merry","elated","jubilant"]
+	,"trumpfeelsB": ["sad", "SAD", "losers" , "Losers", "Very sad!", "Losers!" , "Haters", "HATERS", "Haters!", "way to go"] 
+
+	,"feelhappy":["great", "lucky", "fortunate", "delighted", "overjoyed", "thankful", "satisfied", "glad", "elated"]
 
 	,"feelopen":["understanding","confident","reliable","easy","amazed","free","sympathetic","interested","satisfied","receptive","accepting","kind"]
 
@@ -56,7 +62,7 @@
 
  	,"swampe" :["🐸", "🐙", "🐛", "🐌", "🦂", "🦀", "🐍", "🐢", "🐠", "🐟", "🐡", "🐬", "🐳", "🐋", "🐚", "🌊"]
 
- 	,"positivemessage":["#time# #dogood# #alluneed# #HT3#", "#dogood# #alluneed# #HT3#"]
+ 	,"positivemessage":["#time# #dogood# #alluneed# #HTG#", "#dogood# #alluneed# #HTG#"]
 
 	,"time":["sometimes" , "every once in a while" , "often enough", "its never to late, "]
 
@@ -64,7 +70,7 @@
 
 	,"dogood":["being open-minded", "taking a leap of faith", "becoming a channel of divine will", "expressing masculine energy in appropriate and constructive ways"]
 
-	,"HT3":["\\#positive", "\\#positivity", "\\#goodthings", "\\#goodpeople", "\\#selfhelp"]
+	,"HTG":["\\#positive", "\\#positivity", "\\#goodthings", "\\#goodpeople", "\\#selfhelp"]
 
 	,"alluneed":["is all you need", "can make a huge difference", "changes everything", "is all it takes", "is the extra mile"]
 
