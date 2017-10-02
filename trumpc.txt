@@ -1,0 +1,59 @@
+TrumpC explenation and vision
+
+
+
+This is my first attempt to make the logic a bit better. 
+ and how i'm doing it. basically just take a random tweet that you like and break it down as best as you can
+
+
+
+#Hillary 	is attempting 	to take  our       freedom     to     bear arms 
+
+[target]	[istryn]	[toba]	[ouryour]  [rifre]    [to]     [values]
+
+			[is]+[trying]	[to]+[ba] 		
+
+
+
+
+so this is set up that if in any sentance we want to use "is" we just call it up as #is# because then it won't sounds ugly when we want to do other things, this can be useful in the way like
+
+
+
+
+
+#gop		is trying	to take back	your	right	to affordable health care
+
+[support] [istryn] [toga] [ouryour] [rifre] [to] [values]
+
+					[to]+[ga]
+
+
+
+
+with only two changes we can add a positive message using most of the same tags. 
+
+
+
+a quick expl. of the cats
+
+HT-GEN						general trump hashtags
+HT-TARG						opposition tags
+HT-SUP						supportive tags
+HT-NEWS						mainstream media
+HT-BLM						black lives matter
+HT-POS						positivity
+HT-PRAY						faith based
+DOTS						trump dots. (....)
+TRUMP-FEELS-B				...{sad}
+TRUMP-FEELS-G				...{awesome!}
+TO 							to
+BA 							bad action
+TO-BA						to do a bad action (to steal\ to take)
+OUR-YOUR 					our \ your
+IS 							is
+TRYING  					attempt \ trying
+IS-TRYN  					is tryING 
+rifre						right \ freedom
+VALUES						basic rights and freedoms/hot topics
+

@@ -1,0 +1,193 @@
+{
+	"origin": ["#TALK1#"]
+
+		,"HTGEN":[
+			"\\#MAGA",
+			"\\#USA",
+			"\\#TRUMP",
+			"\\#Trump2016",
+			"\\#america",
+			"\\#freedom",
+			"\\#NRA",
+			"\\#GOP",
+			"\\#republicans",
+			"\\#guns"
+		]
+
+		,"HTTARG":[
+			"\\#liberals",
+			"\\#dems",
+			"\\#snowflakes",
+			"\\#left",
+			"\\#progressive",
+			"\\#liberal",
+			"\\#indipendant",
+			"\\#feeltheburn",
+			"\\#sanders",
+			"\\#obama",
+			"\\#dnc",
+			"\\#antifa",
+			"\\#Hillary"
+		]
+
+		,"HTSUP":[
+			"\\#LEO",
+			"\\#police",
+			"\\#vets",
+			"\\#troops",
+			"\\#cops",
+			"\\#GOP",
+			"\\#navy",
+			"\\#army",
+			"\\#marines",
+			"\\#patriots",
+			"\\#cowboys",
+			"\\#military",
+			"\\#MIL"
+		]
+
+		,"HTNEWS":[
+			"\\#abc",
+			"\\#cbs",
+			"\\#cnn",
+			"\\#msnbc",
+			"\\#AOL",
+			"\\#Yahoo",
+			"\\#AP",
+			"\\#Reuters",
+			"\\#buzzfeed",
+			"\\#BBC"
+		]
+
+		,"HTBLM":[
+			"\\#takeaknee",
+			"\\#unity",
+			"\\#blacklivesmatter",
+			"\\#alllivesmatter",
+			"\\#amberroseslutwalk",
+			"\\#equality",
+			"\\#nomorevictimblaming",
+			"\\#kaepernick",
+			"\\#rightsideofhistory",
+			"\\#stopkillingblackpeople",
+			"\\#icantbreathe",
+			"\\#black \\#lives \\#matter",
+			"\\#tamirrice",
+			"\\#handsupdontshoot",
+			"\\#sandrabland",
+			"\\#freddiegray",
+			"\\#ericgarner",
+			"\\#saytheirnames",
+			"\\#allthenames",
+			"\\#toomanynames",
+			"\\#takeastand",
+			"\\#raiseyourvoice"
+		]
+
+		,"HTPOS":[
+			"\\#positive",
+			"\\#positivity",
+			"\\#goodthings",
+			"\\#goodpeople",
+			"\\#selfhelp"
+		]
+
+		,"HTPRAY":[ 
+			"\\#faith", 
+			"\\#Lord", 
+			"\\#God", 
+			"\\#Father", 
+			"\\#Prayer", 
+			"\\#Jesus"
+		]
+
+		,"DOTS":[
+			"\\#...",
+			"\\#..",
+			"\\#.",
+			"\\#...."
+		]
+
+		,"trumpfeelsB":[
+			"sad", 
+			"SAD", 
+			"losers" , 
+			"Losers", 
+			"Very sad!", 
+			"Losers!" , 
+			"Haters", 
+			"HATERS", 
+			"Haters!", 
+			"way to go"
+		]
+
+		,"trumpfeelsG":[
+			"nice", 
+			"NICE!" , 
+			"way to go", 
+			"awesome", 
+			"this is HUGE!"
+		]
+
+		,"TO":[
+			"to",
+			"to",
+			"to",
+			"to"
+		]
+
+		,"BA":[
+			"silence",
+			"take",
+			"steal"
+		]
+
+		,"TOBA":[
+			"#TO# #BA#",
+			"#TO# #BA#",
+			"#TO# #BA#",
+			"#TO# #BA#",
+			"#TO# #BA#"	
+		]
+
+		,"OURYOUR":[
+			"our",
+			"your"
+		]
+
+		,"IS":[
+			"is",
+			"is",
+			"is",
+			"is",
+			"is"
+		]
+
+		,"TRYING":[
+			"trying",
+			"attempting"
+		]
+
+		,"ISTRYN":[
+			"#IS# #TRYING#",
+			"#IS# #TRYING#",
+			"#IS# #TRYING#",
+			"#IS# #TRYING#",
+			"#IS# #TRYING#"
+		]
+
+		,"RIFRE":[
+			"right",
+			"freedom"
+		]
+
+		,"VALUES":[
+			"bear arms",
+			"speak loud",
+			"choose healthcare"
+		]
+
+		,"TALK1":[
+			"#HTTARG# #ISTRYN# #TOBA# #OURYOUR# #RIFRE# #TO# #VALUES# #HTGEN#"
+		]
+}
