@@ -3,7 +3,10 @@ TrumpC explenation and vision
 
 
 This is my first attempt to make the logic a bit better. 
- and how i'm doing it. basically just take a random tweet that you like and break it down as best as you can
+ and how i'm doing it. this should serve as just a huge brain that we can use to keep every piece of logic we make.
+ so far working to take trumpb and format it and make it all work out in trumpc so i can update. 
+
+ basically just take a random tweet that you like and break it down as best as you can in to catagories we have or add them. 
 
 
 

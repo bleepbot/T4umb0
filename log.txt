@@ -1,7 +1,7 @@
 --------
 |Update|
 
-bot is currently running 1.0.1\trumpb.json
+bot is currently running 1.0.2\trumpc.json
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.0.2	- added trumpc and started on more complext way of stacking statements. 
 
@@ -37,6 +37,11 @@ TRYING  					attempt \ trying
 IS-TRYN  					is tryING 
 rifre						right \ freedom
 VALUES						basic rights and freedoms/hot topics
+-DIS						Discription word
+
+-GRU						Short for group
+-TYPE						a type of something
+
 
 
 
@@ -51,7 +56,15 @@ VALUES						basic rights and freedoms/hot topics
 
 ----------------
 |may need later|
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#Hillary 	is attempting 	to take  our       freedom     to     bear arms 
+
+[target]	[istryn]	[toba]	[ouryour]  [rifre]    [to]     [values]
+
+			[is]+[trying]	[to]+[ba] 	
+
+
 
 http://delim.co/ for list cleaning
 
