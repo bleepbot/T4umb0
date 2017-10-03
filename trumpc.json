@@ -15,7 +15,10 @@
 
 		,"BOUTVALUES":[
 			"#TARGRU# #ARETRYN# #TOBA# #OURYOUR# #RIFRE# #TO# #VALUES# #HTGEN#",
-			"#TARGRU# #REFUSE# #TO# #HAVE# #ACONVO# #ABOUT# #OURYOUR# #RIFRE# #TO# #VALUES#"
+			"#TARGRU# #REFUSE# #TO# #HAVE# #ACONVO# #ABOUT# #OURYOUR# #RIFRE# #TO# #VALUES#",
+			"#TARGRU# #REFUSE# #TO# #HAVE# #ACONVO# #ABOUT# #ISSUE# #HT1#",
+			"#TARGRU# #ARETRYN# #TOBA# #ISSUE# #HTGEN#"
+
 		]
 
 		,"PRAY":[
@@ -284,6 +287,11 @@
 			"and"
 		]
 
+		,"STAND":[
+			"stand",
+			"stand"
+		]
+
 
 
 
@@ -329,12 +337,18 @@
 
 		,"TARGRU":[
 			"#TARDIS# #DISGRU.s#",
-			"#TARDIS# #RIGHT.s# advocates"
+			"#TARDIS# #RIGHT.s# advocates",
+			"#GRURESIST#"
 		]
 
 		,"ABOUT":[
 			"about",
 			"on"
+		]
+
+		,"STANDFOR":[
+			"#STAND# #FOR#",
+			"#STAND# #FOR#"
 		]
 
 
@@ -444,20 +458,15 @@
 			"frank", 
 			"respectful", 
 			"kind", 
-			"probing",
 			"quick",
-			"clean",
-			"rhetorical",
-			"punchy",
-			"well turned"
+			"clean"
 		]
 
 		,"ANDIS":[
 			"honest",
 			"intellegent",
 			"economical",
-			"articulate",
-			"euphemistic"
+			"articulate"
 		]
 
 		,"BA":[
@@ -475,7 +484,8 @@
 		,"VALUES":[
 			"bear arms",
 			"vote",
-			"choose healthcare"
+			"choose healthcare",
+			"#STANDFOR# your flag"
 		]
 
 		,"TRYING":[
@@ -487,7 +497,6 @@
 
 		,"TARDIS":[
 			"Black",
-			"indigenous",
 			"trans",
 			"queer",
 			"LGBT",
@@ -524,6 +533,76 @@
 		,"GRUTYPE":[
 			"advocacy",
 			"civil #RIGHT.s#"
+		],
+
+		"GRURESIST":[
+			"Greenpeace",
+			"the Black Panthers",
+			"the SDS",
+			"the Weather Underground",
+			"the New Left","Occupy",
+			"Black Lives Matter",
+			"the IWW","SNCC",
+			"the Vietnam Moratorium",
+			"the Yippies",
+			"the Free Speech Movement",
+			"the African National Congress",
+			"the Non-Cooperation Movement",
+			"the Daughters of Bilitis",
+			"the Mattachine Society",
+			"the Gay Liberation Front",
+			"the Freedom Riders",
+			"the SCLC",
+			"La Raza",
+			"UFW",
+			"AIM",
+			"the Alpha Suffrage Club",
+			"NAWSA"
+		],
+
+		"ISSUE": [
+			"#THE# middle class",
+			"welfare",
+			"race",
+			"race relations",
+			"public arts funding",
+			"public education",
+			"journalism",
+			"income inequality",
+			"the minimum wage",
+			"Black Lives Matter",
+			"empathy","political organizing",
+			"democracy","civil rights", 
+			"queer issues",
+			"women's issues",
+			"minority rights",
+			"immigration",
+			"campaign finance reform",
+			"the Constitution",
+			"disability rights",
+			"the justice system",
+			"climate science",
+			"public research funding",
+			"trans issues","the gender gap",
+			"the First Amendment",
+			"gun violence",
+			"indigenous rights",
+			"workers' rights",
+			"police violence",
+			"healthcare",
+			"reproductive rights",
+			"taxes","voting rights",
+			"labor solidarity",
+			"environmental degradation",
+			"corporatism",
+			"consumerism",
+			"fascism",
+			"the refugee crisis",
+			"foreign influence in elections",
+			"online harassment",
+			"sexual violence",
+			"voter suppression"
 		]
+
 
 }
