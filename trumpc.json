@@ -1,6 +1,41 @@
 {
 	"origin": ["#TALK#"]
 
+		,"TALK":[
+			"#BOUTGUNS# #HT1#",
+			"#BOUTVALUES# #HTG2#",
+			"#PRAY# #HTPRAY#",
+			"#BOUTPROTECT# #HTGEN#"
+		]
+
+		,"BOUTGUNS":[
+			"#TARGRU# #ARE# #GUNTALK#",
+			"#GUNPROP#"
+		]
+
+		,"BOUTVALUES":[
+			"#TARGRU# #ARETRYN# #TOBA# #OURYOUR# #RIFRE# #TO# #VALUES# #HTGEN#",
+			"#TARGRU# #REFUSE# #TO# #HAVE# #ACONVO# #ABOUT# #OURYOUR# #RIFRE# #TO# #VALUES#"
+		]
+
+		,"PRAY":[
+			"#GOD# #PLEASE# #PRAYER# #AND# #PRAYER# #OUR# #SUPPORT# #PRAYEND#",
+			"#PLEASE# #GOD# #PRAYER# #OUR# #SUPPORT#",
+			"#PRAYER# #OUR# #SUPPORT# #GOD# #PLEASE# #GOD#"
+		]
+
+		,"BOUTPROTECT":[
+			"#GOD# #STAND# #HELPAREA# #INTIME#.#AND# #THANK# #TO# #OUR# #SUPPORT#",
+			"#THANK# #GOD# #FOR# #PROTECT# #HELPAREA#"
+		]
+
+
+
+
+
+
+
+
 		,"HTG1":[
 			"#HTBLM#",
 			"#HTTARG#"
@@ -16,6 +51,14 @@
 			"#HTG1# #HTG1#",
 			"#HTG1# #HTG1# #HTG1#"
 		]
+
+
+
+
+
+
+
+
 
 		,"HTGEN":[
 			"\\#MAGA",
@@ -117,11 +160,19 @@
 			"\\#Jesus"
 		]
 
+
+
+
+
+
+		
+
+
 		,"DOTS":[
-			"\\#...",
-			"\\#..",
-			"\\#.",
-			"\\#...."
+			"...",
+			"..",
+			".",
+			"...."
 		]
 
 		,"trumpfeelsB":[
@@ -145,97 +196,27 @@
 			"this is HUGE!"
 		]
 
+
+
+
+
+
+
+
+
 		,"TO":[
-			"to",
-			"to",
 			"to",
 			"to"
 		]
 
-		,"BA":[
-			"silence",
-			"take",
-			"steal",
-			"strip",
-			"embezzle",
-			"appropriate",
-			"rifle",
-			"plunder",
-			"swindle"
-		]
-
-		,"TOBA":[
-			"#TO# #BA#",
-			"#TO# #BA#",
-			"#TO# #BA#",
-			"#TO# #BA#",
-			"#TO# #BA#"	
-		]
-
-		,"OURYOUR":[
-			"#OUR#",
-			"your"
-		]
-
 		,"IS":[
-			"is",
-			"is",
-			"is",
 			"is",
 			"is"
 		]
 
-		,"TRYING":[
-			"trying",
-			"attempting",
-			"working #TO#",
-			"exasperating"
-		]
-
-		,"ISTRYN":[
-			"#IS# #TRYING#",
-			"#IS# #TRYING#",
-			"#IS# #TRYING#",
-			"#IS# #TRYING#",
-			"#IS# #TRYING#"
-		]
-
-		,"RIFRE":[
-			"#RIGHT#",
-			"freedom"
-		]
-
-		,"VALUES":[
-			"bear arms",
-			"vote",
-			"choose healthcare"
-		]
-
-		,"TALK":[
-			"#BOUTGUNS# #HT1#",
-			"#BOUTVALUES# #HTG2#",
-			"#PRAY# #HTPRAY#",
-			"#BOUTPROTECT# #HTGEN#"
-		]
-
-		,"BOUTGUNS":[
-			"#TARGRU# #ARE# #GUNTALK#",
-			"#GUNPROP#"
-		]
-
-		,"BOUTVALUES":[
-			"#TARGRU# #ARETRYN# #TOBA# #OURYOUR# #RIFRE# #TO# #VALUES# #HTGEN#",
-			"#TARGRU# #REFUSE# #TO# #HAVE# #ACONVO# #ABOUT# #OURYOUR# #RIFRE# #TO# #VALUES#"
-		]
-		
 		,"ARE":[
 			"are",
 			"are"
-		]
-
-		,"ARETRYN":[
-			"#ARE# #TRYING#",
-			"#ARE# #TRYING#"
 		]
 
 		,"A":[
@@ -246,6 +227,208 @@
 		,"AN":[
 			"an",
 			"an"
+		]
+
+		,"REFUSE":[
+			"refuse",
+			"refuse"
+		]
+
+		,"HAVE":[
+			"have",
+			"have"
+		]
+
+		,"GROUP":[
+			"group",
+			"group"
+		]
+
+		,"RIGHT":[
+			"right",
+			"right"
+		]
+
+		,"PLEASE":[
+			"please",
+			"please"
+		]
+
+		,"OUR":[
+			"our",
+			"our"
+		]
+
+		,"FOR":[
+			"for",
+			"for"
+		]
+
+		,"OVER":[
+			"over",
+			"over"
+		]
+
+		,"GUNS":[
+			"guns",
+			"guns"
+		]
+
+		,"ARE":[
+			"are",
+			"are"
+		]
+
+		,"AND":[
+			"and",
+			"and"
+		]
+
+
+
+
+
+
+
+
+
+		,"ISTRYN":[
+			"#IS# #TRYING#",
+			"#IS# #TRYING#"
+		]
+
+		,"TOBA":[
+			"#TO# #BA#",
+			"#TO# #BA#"	
+		]
+
+		,"OURYOUR":[
+			"#OUR#",
+			"your"
+		]
+
+		,"RIFRE":[
+			"#RIGHT#",
+			"freedom"
+		]
+
+		,"ARETRYN":[
+			"#ARE# #TRYING#",
+			"#ARE# #TRYING#"
+		]
+
+		,"ACONVO":[
+			"#A# #ADIS# #CONVO#",
+			"#AN# #ANDIS# #CONVO#"
+		]
+
+		,"DISGRU":[
+			"#GRUTYPE# #GROUP#",
+			"#GRUTYPE# #GROUP#"
+		]
+
+		,"TARGRU":[
+			"#TARDIS# #DISGRU.s#",
+			"#TARDIS# #RIGHT.s# advocates"
+		]
+
+		,"ABOUT":[
+			"about",
+			"on"
+		]
+
+
+
+
+
+
+
+
+
+		,"GUNTALK":[
+			"#TRYING# #TO# #BAN# #GUNS#"
+		]
+
+		,"GUNPROP":[
+			"#GUNTAR# with these intentions don't care about bans, they'll get the guns regardless ",
+			"Those #ARE# not civilian #GUNS#, those #ARE# #GUNFEAR#. That is so horrible.",
+			"The #GUNFEAR# used in this shooting are already illegal so it wouldn’t change anything",
+			"Can't blame #GUNS#. can blame #GUNTAR#"
+		]
+
+
+		,"GUNFEAR":[
+			"#GUNTYPE# #GUNS#",
+			"banned #GUNS#"
+		]
+
+		,"GUNTYPE":[
+			"automatic",
+			"illegal"
+		]
+
+		,"GUNTAR":[
+			"thugs",
+			"criminals",
+			"terrorist",
+			"foriegners"
+		]
+
+	
+
+
+
+
+
+
+
+		,"GOD":[
+			"god",
+			"jesus",
+			"lord",
+			"father"
+		]
+
+		,"PRAYER":[
+			"give strength to",
+			"watch over",
+			"guide",
+			"protect",
+			"take care of"
+		]
+
+		,"PRAYEND":[
+			"amen",
+			"amen!",
+			"AMEN!"
+		]
+
+		,"PROTECT":[
+			"protecting",
+			"watching over"
+		]
+
+		,"THANK":[
+			"thanks",
+			"thank you"
+		]
+		,"INTIME":[
+			"in this time of trouble",
+			"through these hardships",
+			"until it is safe"
+		]
+
+		,"STAND":[
+			"stand with",
+			"be with"
+		]
+
+		,"HELPAREA":[
+			"Puerto Rico",
+			"Las Vegas",
+			"Paris",
+			"Navada",
+			"North Carolina"
 		]
 
 		,"CONVO":[
@@ -277,24 +460,29 @@
 			"euphemistic"
 		]
 
-		,"ACONVO":[
-			"#A# #ADIS# #CONVO#",
-			"#AN# #ANDIS# #CONVO#"
+		,"BA":[
+			"silence",
+			"take",
+			"steal",
+			"strip",
+			"embezzle",
+			"appropriate",
+			"rifle",
+			"plunder",
+			"swindle"
 		]
 
-		,"ABOUT":[
-			"about",
-			"on"
+		,"VALUES":[
+			"bear arms",
+			"vote",
+			"choose healthcare"
 		]
 
-		,"REFUSE":[
-			"refuse",
-			"refuse"
-		]
-
-		,"HAVE":[
-			"have",
-			"have"
+		,"TRYING":[
+			"trying",
+			"attempting",
+			"working #TO#",
+			"exasperating"
 		]
 
 		,"TARDIS":[
@@ -309,49 +497,6 @@
 			"disabled"
 		]
 
-		,"GUNTAR":[
-			"thugs",
-			"criminals",
-			"terrorist",
-			"foriegners"
-		]
-
-		,"GROUP":[
-			"group",
-			"group"
-		]
-
-		,"GRUTYPE":[
-			"advocacy",
-			"civil #RIGHT.s#"
-		]
-
-		,"DISGRU":[
-			"#GRUTYPE# #GROUP#",
-			"#GRUTYPE# #GROUP#"
-		]
-
-		,"TARGRU":[
-			"#TARDIS# #DISGRU.s#",
-			"#TARDIS# #RIGHT.s# advocates"
-		]
-
-		,"RIGHT":[
-			"right",
-			"right"
-		]
-
-		,"GUNTALK":[
-			"#TRYING# #TO# #BAN# #GUNS#"
-		]
-
-		,"GUNPROP":[
-			"#GUNTAR# with these intentions don't care about bans, they'll get the guns regardless ",
-			"Those #ARE# not civilian #GUNS#, those #ARE# #GUNFEAR#. That is so horrible.",
-			"The #GUNFEAR# used in this shooting are already illegal so it wouldn’t change anything",
-			"Can't blame #GUNS#. can blame #GUNTAR#"
-		]
-
 		,"BAN":[
 			"outlaw",
 			"ban",
@@ -360,57 +505,6 @@
 			"forbid",
 			"embargo",
 			"disallow"
-		]
-
-		,"GUNFEAR":[
-			"#GUNTYPE# #GUNS#",
-			"banned #GUNS#"
-		]
-
-		,"GUNTYPE":[
-			"automatic",
-			"illegal"
-		]
-
-		,"GUNS":[
-			"guns",
-			"guns"
-		]
-
-		,"ARE":[
-			"are",
-			"are"
-		]
-
-		,"GOD":[
-			"god",
-			"jesus",
-			"lord",
-			"father"
-		]
-
-		,"PRAYER":[
-			"give strength to",
-			"watch over",
-			"guide",
-			"protect",
-			"take care of"
-		]
-
-		,"PLEASE":[
-			"please",
-			"please"
-		]
-
-		,"OUR":[
-			"our",
-			"our"
-		]
-
-		,"PRAY":[
-			"#GOD# #PLEASE# #PRAYER# #AND# #PRAYER# #OUR# #SUPPORT# #PRAYEND#",
-			"#PLEASE# #GOD# #PRAYER# #OUR# #SUPPORT#",
-			"#PRAYER# #OUR# #SUPPORT# #GOD# #PLEASE# #GOD#"
 		]
 
 		,"SUPPORT":[
@@ -427,58 +521,9 @@
 			"military"
 		]
 
-		,"AND":[
-			"and",
-			"and"
+		,"GRUTYPE":[
+			"advocacy",
+			"civil #RIGHT.s#"
 		]
 
-		,"PRAYEND":[
-			"amen",
-			"amen!",
-			"AMEN!"
-		]
-
-
-		,"BOUTPROTECT":[
-			"#GOD# #STAND# #HELPAREA# #INTIME#.#AND# #THANK# #TO# #OUR# #SUPPORT#",
-			"#THANK# #GOD# #FOR# #PROTECT# #HELPAREA#"
-		]
-
-		,"PROTECT":[
-			"protecting",
-			"watching over"
-		]
-
-		,"FOR":[
-			"for",
-			"for"
-		]
-
-		,"OVER":[
-			"over",
-			"over"
-		]
-
-		,"THANK":[
-			"thanks",
-			"thank you"
-		]
-		,"INTIME":[
-			"in this time of trouble",
-			"through these hardships",
-			"until it is safe"
-		]
-
-		,"STAND":[
-			"stand with",
-			"be with"
-		]
-
-		,"HELPAREA":[
-			"Puerto Rico",
-			"Las Vegas",
-			"Paris",
-			"Navada",
-			"North Carolina"
-		]
 }
